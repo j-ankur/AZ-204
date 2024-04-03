@@ -1,0 +1,6 @@
+Lab 11: Monitor services that are deployed to Azure
+Exercise 1: Create and configure Azure resources
+Task 4: Configure web API autoscale options
+Step 1: In the Scale out section, perform the following actions, and then select Save:
+Issue: Cannot add a rule due to the following error:
+    current resource ASP-MonitoredAssets**** (under Metric Resource Drop Down) might not be present. Please select a different resource for scaling.
